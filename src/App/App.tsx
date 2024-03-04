@@ -1,6 +1,6 @@
-import Counter from "./Counter";
-import Header from "./Header";
-import TextToAlert from "./TextToAlert";
+import Counter from "../Counter/Counter";
+import Header from "../Header/Header";
+import TextToAlert from "../TextToAlert/TextToAlert";
 
 function App() {
   return(
