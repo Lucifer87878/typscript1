@@ -1,5 +1,6 @@
 import Counter from "./Counter";
 import Header from "./Header";
+import TextToAlert from "./TextToAlert";
 
 function App() {
   return(
@@ -8,6 +9,7 @@ function App() {
   Rubril & <span>ngt mer?</span>
   </Header>
   <Counter />
+  <TextToAlert />
   </>
   )
 }
